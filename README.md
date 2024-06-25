@@ -68,7 +68,7 @@ This project underscores the significance of data analysis in enhancing Airbnb's
 
 
 
-# THE FOLLOWING ACTIVITIES HAS BEEN DONE AND THE FOLLOWING QUESTIONS HAS BEEN ANSWERED IN THE JUPYTER(.pynb) FILE
+## THE FOLLOWING ACTIVITIES HAS BEEN DONE AND THE FOLLOWING QUESTIONS HAS BEEN ANSWERED IN THE JUPYTER(.pynb) FILE
 
 ### Activities done:
 1. Data Extracting/Loading
