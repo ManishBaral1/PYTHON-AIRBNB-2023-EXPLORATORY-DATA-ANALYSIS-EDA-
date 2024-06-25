@@ -1,5 +1,8 @@
 # PYTHON-AIRBNB-EXPLORATORY-DATA-ANALYSIS-EDA-
 
+### DATA SOURCE
+The data for our EDA was taken from kaggle. Newyork City Airbnb 2023 data is a public data. (https://www.kaggle.com/datasets/godofoutcasts/new-york-city-airbnb-2023-public-data)
+
 
 ### Activities done:
 1. Data Extracting/Loading
