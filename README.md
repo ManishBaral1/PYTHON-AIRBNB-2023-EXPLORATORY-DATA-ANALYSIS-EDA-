@@ -13,9 +13,9 @@ The data for our EDA was taken from kaggle. Newyork City Airbnb 2023 data is a p
 
 This project is dedicated to performing exploratory data analysis (EDA) on Airbnb listings. With a global reach, Airbnb relies heavily on data analysis to enhance its operations. The platform generates extensive data from millions of listings, which can be leveraged for security, business decisions, understanding customer and provider behavior, innovation, marketing initiatives, and more. Our analysis focuses on historical data from Airbnb listings in New York, a prominent destination for tourism and business.
 
-Our dataset contains approximately 48,895 records and 16 attributes. We began by importing the dataset and the necessary libraries to understand the variables. We performed comprehensive EDA, examining numeric and categorical features through univariate, bivariate, and multivariate analyses. Following this, we treated outliers and null values, transforming the data to ensure compatibility with model building and predictions if required.
+Our dataset contains approximately 49,931 records and 18 attributes. We began by importing the dataset and the necessary libraries to understand the variables. We performed comprehensive EDA, examining numeric and categorical features through univariate, bivariate, and multivariate analyses. Following this, we treated outliers and null values, transforming the data to ensure compatibility with model building and predictions if required.
 
-**Index**
+**Overview**
 
 1. Problem Statement
 2. Know Your Data
@@ -25,7 +25,6 @@ Our dataset contains approximately 48,895 records and 16 attributes. We began by
 6. Data Modeling and Prediction
 7. Conclusion
 
-#### Let's Begin!
 
 ### 1. Problem Statement
 
@@ -63,12 +62,13 @@ In addition to exploratory data analysis, we also undertook data modeling and pr
 
 Scikit-Learn is an essential library for machine learning in Python. It provides simple and efficient tools for data analysis and modeling, ensuring robust performance and ease of implementation. Our analysis revealed that the Decision Tree Model exhibited the highest R² value and the lowest error, making it the most effective model. Based on this model, we developed a recommendation system to aid in decision-making.
 
----
+
 
 This project underscores the significance of data analysis in enhancing Airbnb's operational strategies, ensuring a better understanding of the market, and driving innovation and growth.
 
----
 
+
+# THE FOLLOWING ACTIVITIES HAS BEEN DONE AND THE FOLLOWING QUESTIONS HAS BEEN ANSWERED IN THE JUPYTER(.pynb) FILE
 
 ### Activities done:
 1. Data Extracting/Loading
@@ -102,17 +102,11 @@ This project underscores the significance of data analysis in enhancing Airbnb's
 21. What is average price by neighbourhood group?
 22. Who are top 5 hosts who own most property?
 23. Who are most expensive hosts?
-
 ### DATA MODELLING AND DATA PREDICTION
 ### Model= Price Prediction based on name
-1. Linear Regression Model
-2. Decision Tree model
-3. Ridge Model
-4. Lasso Model
-
+24. Linear Regression Model , Decision Tree model, Ridge model and Lasso model
 **We showed Decision Tree model has the highest R^2 value and least error. Hence it is the best model.**
-
-5. Created Recommender System
+25. Created Recommender System
 
 
 
